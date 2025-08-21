@@ -49,3 +49,4 @@ Thumbs.db
 # Other
 # -----------------------
 hs_err_pid*
+.env
